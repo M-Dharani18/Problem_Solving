@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Array
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/M-Dharani18/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/M-Dharani18/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
