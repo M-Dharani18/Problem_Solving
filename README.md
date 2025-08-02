@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/M-Dharani18/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+## Hash Table
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
+## Sort
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
