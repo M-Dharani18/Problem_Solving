@@ -5,7 +5,7 @@ class Solution {
             li.add(index[i],nums[i]);
         }
         int[] arr = new int[li.size()];
-        for(int i=0;i<li.size();i++){
+        for(int i=0;i<arr.length;i++){
             arr[i]=li.get(i);
         }
         return arr;
