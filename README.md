@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Database
+|  |
+| ------- |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/M-Dharani18/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
