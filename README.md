@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M-Dharani18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1338-queries-quality-and-percentage](https://github.com/M-Dharani18/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/M-Dharani18/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
