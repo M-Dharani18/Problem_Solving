@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/M-Dharani18/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/M-Dharani18/Leetcode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/M-Dharani18/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
