@@ -1,5 +1,4 @@
-bool isHappy(int n) {
-    int num=n;
+bool isHappy(int num) {
     while(num!=1 && num!=4){
         int sum=0;
         while(num>0){
