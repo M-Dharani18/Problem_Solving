@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/M-Dharani18/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/M-Dharani18/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/M-Dharani18/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M-Dharani18/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/M-Dharani18/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/M-Dharani18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Enumeration
 |  |
 | ------- |
