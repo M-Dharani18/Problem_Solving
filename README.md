@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/M-Dharani18/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M-Dharani18/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/M-Dharani18/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2529-range-product-queries-of-powers](https://github.com/M-Dharani18/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M-Dharani18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/M-Dharani18/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/M-Dharani18/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/M-Dharani18/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/M-Dharani18/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
