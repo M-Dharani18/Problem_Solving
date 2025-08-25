@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
