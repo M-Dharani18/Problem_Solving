@@ -1,6 +1,13 @@
 class Solution {
     public String defangIPaddr(String address) {
-        String res = address.replace(".","[.]");
-        return res;
+        StringBuilder s =  new StringBuilder();
+        for(char c : address.toCharArray()){
+            if(c=='.'){
+                s.append("[.]");
+            }else{
+                s.append(c);
+            }
+        }
+        return s.toString();
     }
 }
