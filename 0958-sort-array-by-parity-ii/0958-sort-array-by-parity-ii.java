@@ -2,8 +2,8 @@ class Solution {
     public int[] sortArrayByParityII(int[] nums) {
         int[] res = new int[nums.length];
         int siz=nums.length;
-        int[] odd = new int[siz];
-        int[] even = new int[siz];
+        int[] odd = new int[siz/2];
+        int[] even = new int[siz/2];
         int e=0;
         int o=0;
         for(int i=0;i<nums.length;i++){
