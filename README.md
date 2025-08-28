@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
+| [1205-defanging-an-ip-address](https://github.com/M-Dharani18/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/M-Dharani18/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Segment Tree
 |  |
