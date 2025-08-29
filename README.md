@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M-Dharani18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
