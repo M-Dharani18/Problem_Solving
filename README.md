@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/M-Dharani18/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/M-Dharani18/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/M-Dharani18/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/M-Dharani18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/M-Dharani18/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/M-Dharani18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/M-Dharani18/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-Dharani18/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -202,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/M-Dharani18/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
