@@ -2,11 +2,11 @@ class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         StringBuilder ans1 = new StringBuilder();
         StringBuilder ans2 = new StringBuilder();
-        for(int i=0;i<word1.length;i++){
-            ans1.append(word1[i]);
+        for(String s : word1){
+            ans1.append(s);
         }
-        for(int j=0;j<word2.length;j++){
-            ans2.append(word2[j]);
+        for(String d: word2){
+            ans2.append(d);
         }
         String a1=ans1.toString();
         String a2=ans2.toString();
