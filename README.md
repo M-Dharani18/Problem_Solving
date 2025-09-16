@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
