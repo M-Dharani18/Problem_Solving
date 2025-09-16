@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/M-Dharani18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
+| [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/M-Dharani18/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/M-Dharani18/Leetcode/tree/master/1137-height-checker) |
