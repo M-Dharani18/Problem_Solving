@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/M-Dharani18/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M-Dharani18/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/M-Dharani18/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/M-Dharani18/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M-Dharani18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/M-Dharani18/Leetcode/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
