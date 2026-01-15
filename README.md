@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/M-Dharani18/Problem_Solving/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/M-Dharani18/Problem_Solving/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2689-rearranging-fruits](https://github.com/M-Dharani18/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sort
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/M-Dharani18/Problem_Solving/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/M-Dharani18/Problem_Solving/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/M-Dharani18/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-Dharani18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
