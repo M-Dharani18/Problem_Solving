@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/M-Dharani18/Problem_Solving/tree/master/0595-big-countries) |
 | [1317-monthly-transactions-i](https://github.com/M-Dharani18/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/M-Dharani18/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1757-recyclable-and-low-fat-products](https://github.com/M-Dharani18/Problem_Solving/tree/master/1757-recyclable-and-low-fat-products) |
