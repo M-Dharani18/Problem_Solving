@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/M-Dharani18/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/M-Dharani18/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/M-Dharani18/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/M-Dharani18/Problem_Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M-Dharani18/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M-Dharani18/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/M-Dharani18/Problem_Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/M-Dharani18/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/M-Dharani18/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/M-Dharani18/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/M-Dharani18/Problem_Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Segment Tree
 |  |
 | ------- |
