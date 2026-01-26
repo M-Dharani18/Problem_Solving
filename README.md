@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/M-Dharani18/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M-Dharani18/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/M-Dharani18/Problem_Solving/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
