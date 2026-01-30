@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/M-Dharani18/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/M-Dharani18/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/M-Dharani18/Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/M-Dharani18/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/M-Dharani18/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/M-Dharani18/Leetcode/tree/master/0075-sort-colors) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/M-Dharani18/Problem_Solving/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/M-Dharani18/Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/M-Dharani18/Leetcode/tree/master/1677-matrix-diagonal-sum) |
