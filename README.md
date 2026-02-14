@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/M-Dharani18/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/M-Dharani18/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/M-Dharani18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1408-string-matching-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1408-string-matching-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/M-Dharani18/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1470-shuffle-the-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [1205-defanging-an-ip-address](https://github.com/M-Dharani18/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1408-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/M-Dharani18/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/M-Dharani18/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/M-Dharani18/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -322,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
