@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/M-Dharani18/Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/M-Dharani18/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/M-Dharani18/Problem_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
