@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/M-Dharani18/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/M-Dharani18/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/M-Dharani18/Leetcode/tree/master/0231-power-of-two) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/M-Dharani18/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/M-Dharani18/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/M-Dharani18/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/M-Dharani18/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
