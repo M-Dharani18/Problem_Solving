@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/M-Dharani18/Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1137-height-checker](https://github.com/M-Dharani18/Leetcode/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/M-Dharani18/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/M-Dharani18/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/M-Dharani18/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/M-Dharani18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/M-Dharani18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/M-Dharani18/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1408-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/M-Dharani18/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/M-Dharani18/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/M-Dharani18/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/M-Dharani18/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Enumeration
