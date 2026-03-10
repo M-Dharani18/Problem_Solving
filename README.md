@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/M-Dharani18/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2079-watering-plants](https://github.com/M-Dharani18/Problem_Solving/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/2105-watering-plants-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M-Dharani18/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/M-Dharani18/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M-Dharani18/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/M-Dharani18/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2079-watering-plants](https://github.com/M-Dharani18/Problem_Solving/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/2105-watering-plants-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-Dharani18/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/M-Dharani18/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/M-Dharani18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2105-watering-plants-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/2105-watering-plants-ii) |
 ## String
 |  |
 | ------- |
