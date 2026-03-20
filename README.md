@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/M-Dharani18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/M-Dharani18/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/M-Dharani18/Problem_Solving/tree/master/0079-word-search) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/M-Dharani18/Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/M-Dharani18/Problem_Solving/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/M-Dharani18/Problem_Solving/tree/master/0994-rotting-oranges) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/M-Dharani18/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1929-concatenation-of-array) |
