@@ -21,8 +21,9 @@ class Solution {
 
         int ans=0;
         int prevnum=0;
+         int num=0;
         for(int i=s.length()-1;i>=0;i--){
-            int num=0;
+           
             char ch=s.charAt(i);
             if(ch=='I') num =1;
             if(ch=='V') num=5;
