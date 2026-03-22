@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/M-Dharani18/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/M-Dharani18/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/M-Dharani18/Problem_Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/M-Dharani18/Problem_Solving/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/M-Dharani18/Problem_Solving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/M-Dharani18/Problem_Solving/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/M-Dharani18/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
