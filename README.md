@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/M-Dharani18/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/M-Dharani18/Problem_Solving/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/M-Dharani18/Problem_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/M-Dharani18/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/M-Dharani18/Problem_Solving/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/M-Dharani18/Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/M-Dharani18/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/M-Dharani18/Problem_Solving/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
