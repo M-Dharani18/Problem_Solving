@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/M-Dharani18/Problem_Solving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/M-Dharani18/Problem_Solving/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/M-Dharani18/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1934-confirmation-rate](https://github.com/M-Dharani18/Problem_Solving/tree/master/1934-confirmation-rate) |
 ## Probability and Statistics
 |  |
 | ------- |
