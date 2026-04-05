@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/M-Dharani18/Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/M-Dharani18/Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/M-Dharani18/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/M-Dharani18/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/M-Dharani18/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/M-Dharani18/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/M-Dharani18/Problem_Solving/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/M-Dharani18/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/M-Dharani18/Problem_Solving/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
