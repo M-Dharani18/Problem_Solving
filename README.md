@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/M-Dharani18/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/M-Dharani18/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/M-Dharani18/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/M-Dharani18/Problem_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/M-Dharani18/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M-Dharani18/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/M-Dharani18/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1408-string-matching-in-an-array) |
