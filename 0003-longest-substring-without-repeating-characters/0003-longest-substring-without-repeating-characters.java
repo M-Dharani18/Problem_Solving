@@ -4,13 +4,12 @@ class Solution {
         int l=0;
         int maxlen=0;
         for(int r=0;r<s.length();r++){
-            while(st.contains(s.charAt(r))){
+            while(!st.add(s.charAt(r))){
                 st.remove(s.charAt(l));
                 l++;
             }
             st.add(s.charAt(r));
-            int len=r-l+1;
-            maxlen=Math.max(maxlen,len);
+            maxlen=Math.max(r-l+1,maxlen);
         }
         return maxlen;
     }
