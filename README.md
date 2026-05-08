@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/M-Dharani18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/M-Dharani18/Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/M-Dharani18/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/M-Dharani18/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/M-Dharani18/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/M-Dharani18/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/M-Dharani18/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/M-Dharani18/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/M-Dharani18/Leetcode/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/M-Dharani18/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/M-Dharani18/Leetcode/tree/master/0941-sort-array-by-parity) |
