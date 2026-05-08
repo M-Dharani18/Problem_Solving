@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/M-Dharani18/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/M-Dharani18/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/M-Dharani18/Leetcode/tree/master/0326-power-of-three) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/M-Dharani18/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -403,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/M-Dharani18/Problem_Solving/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/M-Dharani18/Problem_Solving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
