@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/M-Dharani18/Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/M-Dharani18/Problem_Solving/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
