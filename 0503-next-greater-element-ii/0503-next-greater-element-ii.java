@@ -2,13 +2,11 @@ class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n=nums.length;
         int[] res = new int[n];
-        Stack<Integer> s = new Stack<>();
+        Stack<Integer> st = new Stack<>();
         for(int i=2*n-1;i>=0;i--){
-            while(!s.isEmpty() && nums[s.peek()] <= nums[i%n]){
-                s.pop();
-            }
-            if(i<n) res[i] = s.isEmpty() ? -1 : nums[s.peek()];
-            s.push(i%n);
+            while(!st.isEmpty() && nums[i%n]>=nums[st.peek()]) st.pop();
+            if(i<n) res[i] = st.isEmpty() ? -1 : nums[st.peek()];
+            st.push(i%n);
         }
         return res;
     }
