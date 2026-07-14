@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/M-Dharani18/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/M-Dharani18/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/M-Dharani18/Problem_Solving/tree/master/0496-next-greater-element-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/M-Dharani18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M-Dharani18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
