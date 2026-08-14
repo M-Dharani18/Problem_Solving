@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/M-Dharani18/Problem_Solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1143-longest-common-subsequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/1143-longest-common-subsequence) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M-Dharani18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/M-Dharani18/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/M-Dharani18/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/M-Dharani18/Problem_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/M-Dharani18/Problem_Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/M-Dharani18/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/M-Dharani18/Problem_Solving/tree/master/1408-string-matching-in-an-array) |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/M-Dharani18/Problem_Solving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
