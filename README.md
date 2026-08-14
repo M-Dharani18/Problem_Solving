@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/M-Dharani18/Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/M-Dharani18/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/M-Dharani18/Problem_Solving/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/M-Dharani18/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M-Dharani18/Problem_Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/M-Dharani18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/M-Dharani18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/M-Dharani18/Problem_Solving/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/M-Dharani18/Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -450,4 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/M-Dharani18/Problem_Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
