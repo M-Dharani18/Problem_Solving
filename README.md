@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/M-Dharani18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/M-Dharani18/Problem_Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/M-Dharani18/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/M-Dharani18/Problem_Solving/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/M-Dharani18/Problem_Solving/tree/master/0643-maximum-average-subarray-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-Dharani18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/M-Dharani18/Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0518-coin-change-ii) |
 | [0826-soup-servings](https://github.com/M-Dharani18/Leetcode/tree/master/0826-soup-servings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/M-Dharani18/Problem_Solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M-Dharani18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -457,8 +459,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/M-Dharani18/Problem_Solving/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/M-Dharani18/Problem_Solving/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
